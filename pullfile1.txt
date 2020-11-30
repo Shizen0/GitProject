@@ -1,2 +1,2 @@
 
-pull file is edited
+pull file is edited (fetch command)
